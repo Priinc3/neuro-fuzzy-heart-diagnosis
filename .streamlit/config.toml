@@ -1,0 +1,7 @@
+# Phase 04 — clean heart theme (nothing else).
+[theme]
+primaryColor = "#d64550"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f9f4f4"
+textColor = "#26232a"
+font = "sans serif"
